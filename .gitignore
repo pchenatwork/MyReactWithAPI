@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebAPI/SqliteDb.db-shm
+/WebAPI/SqliteDb.db-wal
+/.vs
