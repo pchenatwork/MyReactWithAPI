@@ -1,7 +1,16 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿# Sqlite temp files
+*.db-shm
+*.db-wal
 
-/WebAPI/SqliteDb.db-shm
-/WebAPI/SqliteDb.db-wal
-/.vs
+## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+.vs/
+
+[Bb]in/
+[Oo]bj/
